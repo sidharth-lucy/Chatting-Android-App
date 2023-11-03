@@ -15,7 +15,7 @@
         android:paddingHorizontal="@dimen/padding_8dp"
         android:paddingVertical="@dimen/padding_6dp"
         android:background="@drawable/text_message_rounded_boarder"
-        tools:text="o roan how areerHellolo roan how areerHello"/>
+        tools:text="o roan how areerHellolorfr roan how areerHello"/>
 
 
 </LinearLayout>
